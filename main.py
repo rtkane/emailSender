@@ -8,9 +8,9 @@ email_password = "password"  # this imports your email password from gmail
 
 email_receiver = 'receiver@gmail.com'  # enter reciever email
 
-subject = "Don't forget to subcribe"
+subject = "Edit for Subject"
 body = """
-    When you watch a video, please hit subscribe
+    Edit for Body
 """
 
 em = EmailMessage()
